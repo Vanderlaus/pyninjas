@@ -1,6 +1,8 @@
 # ⏩ Agiliza Mei ⏩
 O projeto de aceleração de abertura de empresas foi criado para simplificar e otimizar o processo de registro e formalização de empresas. Através dele, será possível realizar o registro e a abertura de empresas de maneira mais fácil e rápida, além de oferecer uma experiência mais agradável para o usuário.
 
+Projeto campeão no Hackweek da turma de Python do +devs2blu 2022/2023
+
 ## ✒️ Autores/Funções ✒️
 
 - [@Jean](https://github.com/jeancnn) - *Full Stack Web Developer -  Tech Lead*
